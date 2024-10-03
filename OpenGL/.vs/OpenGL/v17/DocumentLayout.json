@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\TextureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\TextureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\OpenGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\OpenGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\FiguraGeometrica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\FiguraGeometrica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\TextureLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\TextureLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\PNGTextureLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\PNGTextureLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\BMPTextureLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\BMPTextureLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\BMPTextureLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\BMPTextureLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Poligono.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Poligono.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example3_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example3_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example3_1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example3_1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Vector3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Vector3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Vector3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Vector3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\DirectionalLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\DirectionalLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\DirectionalLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\DirectionalLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\PointLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\PointLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\SpotLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\SpotLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\SpotLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\SpotLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\IncludeGL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\IncludeGL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenGL.cpp",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\OpenGL.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\OpenGL.cpp",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\OpenGL.cpp",
+              "RelativeToolTip": "OpenGL\\OpenGL.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T20:03:43.187Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Example5.cpp",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example5.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Example5.cpp",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example5.cpp",
+              "RelativeToolTip": "OpenGL\\Example5.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T07:10:59.956Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Example5.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example5.h",
+              "RelativeDocumentMoniker": "OpenGL\\Example5.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example5.h",
+              "RelativeToolTip": "OpenGL\\Example5.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T15:57:18.704Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextureManager.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\TextureManager.h",
+              "RelativeDocumentMoniker": "OpenGL\\TextureManager.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\TextureManager.h",
+              "RelativeToolTip": "OpenGL\\TextureManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T07:50:48.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BMPTextureLoader.cpp",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\BMPTextureLoader.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\BMPTextureLoader.cpp",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\BMPTextureLoader.cpp",
+              "RelativeToolTip": "OpenGL\\BMPTextureLoader.cpp",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwDwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T07:05:03.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextureLoader.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\TextureLoader.h",
+              "RelativeDocumentMoniker": "OpenGL\\TextureLoader.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\TextureLoader.h",
+              "RelativeToolTip": "OpenGL\\TextureLoader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T07:01:51.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PNGTextureLoader.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\PNGTextureLoader.h",
+              "RelativeDocumentMoniker": "OpenGL\\PNGTextureLoader.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\PNGTextureLoader.h",
+              "RelativeToolTip": "OpenGL\\PNGTextureLoader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T07:01:24.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BMPTextureLoader.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\BMPTextureLoader.h",
+              "RelativeDocumentMoniker": "OpenGL\\BMPTextureLoader.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\BMPTextureLoader.h",
+              "RelativeToolTip": "OpenGL\\BMPTextureLoader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T15:59:40.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Example4.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example4.h",
+              "RelativeDocumentMoniker": "OpenGL\\Example4.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example4.h",
+              "RelativeToolTip": "OpenGL\\Example4.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T21:42:10.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FiguraGeometrica.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\FiguraGeometrica.h",
+              "RelativeDocumentMoniker": "OpenGL\\FiguraGeometrica.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\FiguraGeometrica.h",
+              "RelativeToolTip": "OpenGL\\FiguraGeometrica.h",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-29T00:53:50.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Poligono.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Poligono.h",
+              "RelativeDocumentMoniker": "OpenGL\\Poligono.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Poligono.h",
+              "RelativeToolTip": "OpenGL\\Poligono.h",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T22:29:04.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Camera.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Camera.cpp",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Camera.cpp",
+              "RelativeToolTip": "OpenGL\\Camera.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T01:46:06.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Example3_1.cpp",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example3_1.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Example3_1.cpp",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example3_1.cpp",
+              "RelativeToolTip": "OpenGL\\Example3_1.cpp",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAQwK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T22:09:13.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Camera.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Camera.h",
+              "RelativeDocumentMoniker": "OpenGL\\Camera.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Camera.h",
+              "RelativeToolTip": "OpenGL\\Camera.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-29T01:22:05.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vector3.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Vector3.h",
+              "RelativeDocumentMoniker": "OpenGL\\Vector3.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Vector3.h",
+              "RelativeToolTip": "OpenGL\\Vector3.h",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-29T01:42:51.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vector3.cpp",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Vector3.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Vector3.cpp",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Vector3.cpp",
+              "RelativeToolTip": "OpenGL\\Vector3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T01:44:58.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Example3_1.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example3_1.h",
+              "RelativeDocumentMoniker": "OpenGL\\Example3_1.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example3_1.h",
+              "RelativeToolTip": "OpenGL\\Example3_1.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-01T22:08:33.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Example2.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example2.h",
+              "RelativeDocumentMoniker": "OpenGL\\Example2.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example2.h",
+              "RelativeToolTip": "OpenGL\\Example2.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-16T00:53:39.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SpotLight.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\SpotLight.h",
+              "RelativeDocumentMoniker": "OpenGL\\SpotLight.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\SpotLight.h",
+              "RelativeToolTip": "OpenGL\\SpotLight.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T22:44:53.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SpotLight.cpp",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\SpotLight.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\SpotLight.cpp",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\SpotLight.cpp",
+              "RelativeToolTip": "OpenGL\\SpotLight.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T22:45:58.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PointLight.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\PointLight.h",
+              "RelativeDocumentMoniker": "OpenGL\\PointLight.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\PointLight.h",
+              "RelativeToolTip": "OpenGL\\PointLight.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T22:42:42.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DirectionalLight.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\DirectionalLight.h",
+              "RelativeDocumentMoniker": "OpenGL\\DirectionalLight.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\DirectionalLight.h",
+              "RelativeToolTip": "OpenGL\\DirectionalLight.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T22:46:27.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Example4.cpp",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example4.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Example4.cpp",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Example4.cpp",
+              "RelativeToolTip": "OpenGL\\Example4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T21:44:28.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DirectionalLight.cpp",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\DirectionalLight.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\DirectionalLight.cpp",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\DirectionalLight.cpp",
+              "RelativeToolTip": "OpenGL\\DirectionalLight.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T22:46:45.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Light.cpp",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Light.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Light.cpp",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Light.cpp",
+              "RelativeToolTip": "OpenGL\\Light.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T22:41:43.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Light.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Light.h",
+              "RelativeDocumentMoniker": "OpenGL\\Light.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\Light.h",
+              "RelativeToolTip": "OpenGL\\Light.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T22:40:41.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IncludeGL.h",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\IncludeGL.h",
+              "RelativeDocumentMoniker": "OpenGL\\IncludeGL.h",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\openGL\\OpenGL\\OpenGL\\IncludeGL.h",
+              "RelativeToolTip": "OpenGL\\IncludeGL.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T20:03:16.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

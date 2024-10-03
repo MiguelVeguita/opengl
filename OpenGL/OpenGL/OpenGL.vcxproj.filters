@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Example.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Example1.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Punto3D.cpp">
+      <Filter>Archivos de origen\figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Poligono.cpp">
+      <Filter>Archivos de origen\figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Example2.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Example4.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Archivos de origen\luces</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLight.cpp">
+      <Filter>Archivos de origen\luces</Filter>
+    </ClCompile>
+    <ClCompile Include="SpotLight.cpp">
+      <Filter>Archivos de origen\luces</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectionalLight.cpp">
+      <Filter>Archivos de origen\luces</Filter>
+    </ClCompile>
+    <ClCompile Include="Example5.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="BMPTextureLoader.cpp">
+      <Filter>Archivos de origen\texturas</Filter>
+    </ClCompile>
+    <ClCompile Include="Example3.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGL.cpp">
+      <Filter>Archivos de origen\utilidades</Filter>
+    </ClCompile>
+    <ClCompile Include="FiguraGeometrica.cpp">
+      <Filter>Archivos de origen\figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Archivos de origen\utilidades</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3.cpp">
+      <Filter>Archivos de origen\Macth</Filter>
+    </ClCompile>
+    <ClCompile Include="Example3_1.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="PNGTextureLoader.cpp">
+      <Filter>Archivos de origen\texturas</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureLoader.cpp">
+      <Filter>Archivos de origen\texturas</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Archivos de origen\texturas</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Example.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="Example1.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="Punto3D.h">
+      <Filter>Archivos de encabezado\figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Poligono.h">
+      <Filter>Archivos de encabezado\figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Example2.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="Example4.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Archivos de encabezado\luces</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLight.h">
+      <Filter>Archivos de encabezado\luces</Filter>
+    </ClInclude>
+    <ClInclude Include="SpotLight.h">
+      <Filter>Archivos de encabezado\luces</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectionalLight.h">
+      <Filter>Archivos de encabezado\luces</Filter>
+    </ClInclude>
+    <ClInclude Include="Example5.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="BMPTextureLoader.h">
+      <Filter>Archivos de encabezado\texturas</Filter>
+    </ClInclude>
+    <ClInclude Include="Example3.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="IncludeGL.h">
+      <Filter>Archivos de encabezado\utilidades</Filter>
+    </ClInclude>
+    <ClInclude Include="FiguraGeometrica.h">
+      <Filter>Archivos de encabezado\figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Archivos de encabezado\utilidades</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Archivos de encabezado\Match</Filter>
+    </ClInclude>
+    <ClInclude Include="Example3_1.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="PNGTextureLoader.h">
+      <Filter>Archivos de encabezado\texturas</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureLoader.h">
+      <Filter>Archivos de encabezado\texturas</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Archivos de encabezado\texturas</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{c72b538f-b538-4771-8b48-514fc6d255c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Example">
+      <UniqueIdentifier>{77f7bccf-93e1-4c5e-93af-1ca989ef7145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{d3a131af-9422-4fcb-8f14-fa337004a1a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Example">
+      <UniqueIdentifier>{1576a901-20ac-42f4-a364-36af7df59b63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\figura">
+      <UniqueIdentifier>{9e7cb1eb-25ec-406e-b3c2-f138d34132f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\figura">
+      <UniqueIdentifier>{748e6fd6-3883-472b-b9c3-e810b1649a81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\luces">
+      <UniqueIdentifier>{fc903044-4078-450e-bf1b-3d80cf2dc7a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\luces">
+      <UniqueIdentifier>{1c24cd3c-6acf-402d-97cc-ca1fefcf92a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\texturas">
+      <UniqueIdentifier>{e92c6847-adfe-43c2-b312-e99f495ab23d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\texturas">
+      <UniqueIdentifier>{39a537ec-0bf1-49a8-97c3-6975c2c88800}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\utilidades">
+      <UniqueIdentifier>{0e076755-5f3f-49d3-91ed-ef60374c4858}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\utilidades">
+      <UniqueIdentifier>{54ac8024-120b-461b-9f85-a7158a3ee67c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Match">
+      <UniqueIdentifier>{beaabc71-4088-41c3-9156-77538615bcde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Macth">
+      <UniqueIdentifier>{18b7436d-b2f7-46bb-adb7-3d11d86fcea1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OpenGL.rc">
+      <Filter>Archivos de encabezado\utilidades</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
