@@ -146,7 +146,11 @@
   <ItemGroup>
     <ClCompile Include="BMPTextureLoader.cpp" />
     <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="Circulo.cpp" />
+    <ClCompile Include="Cuadrado.cpp" />
+    <ClCompile Include="Cubo.cpp" />
     <ClCompile Include="DirectionalLight.cpp" />
+    <ClCompile Include="Esfera.cpp" />
     <ClCompile Include="Example.cpp" />
     <ClCompile Include="Example1.cpp" />
     <ClCompile Include="Example2.cpp" />
@@ -154,22 +158,30 @@
     <ClCompile Include="Example3_1.cpp" />
     <ClCompile Include="Example4.cpp" />
     <ClCompile Include="Example5.cpp" />
+    <ClCompile Include="Figura.cpp" />
+    <ClCompile Include="Figura2D.cpp" />
+    <ClCompile Include="Figura3D.cpp" />
     <ClCompile Include="FiguraGeometrica.cpp" />
     <ClCompile Include="Light.cpp" />
     <ClCompile Include="OpenGL.cpp" />
+    <ClCompile Include="Piramide.cpp" />
     <ClCompile Include="PNGTextureLoader.cpp" />
     <ClCompile Include="PointLight.cpp" />
     <ClCompile Include="Poligono.cpp" />
     <ClCompile Include="Punto3D.cpp" />
     <ClCompile Include="SpotLight.cpp" />
     <ClCompile Include="TextureLoader.cpp" />
-    <ClCompile Include="TextureManager.cpp" />
+    <ClCompile Include="Triangulo.cpp" />
     <ClCompile Include="Vector3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BMPTextureLoader.h" />
     <ClInclude Include="Camera.h" />
+    <ClInclude Include="Circulo.h" />
+    <ClInclude Include="Cuadrado.h" />
+    <ClInclude Include="Cubo.h" />
     <ClInclude Include="DirectionalLight.h" />
+    <ClInclude Include="Esfera.h" />
     <ClInclude Include="Example.h" />
     <ClInclude Include="Example1.h" />
     <ClInclude Include="Example2.h" />
@@ -177,9 +189,13 @@
     <ClInclude Include="Example3_1.h" />
     <ClInclude Include="Example4.h" />
     <ClInclude Include="Example5.h" />
+    <ClInclude Include="Figura.h" />
+    <ClInclude Include="Figura2D.h" />
+    <ClInclude Include="Figura3D.h" />
     <ClInclude Include="FiguraGeometrica.h" />
     <ClInclude Include="IncludeGL.h" />
     <ClInclude Include="Light.h" />
+    <ClInclude Include="Piramide.h" />
     <ClInclude Include="PNGTextureLoader.h" />
     <ClInclude Include="PointLight.h" />
     <ClInclude Include="Poligono.h" />
@@ -187,7 +203,7 @@
     <ClInclude Include="resource.h" />
     <ClInclude Include="SpotLight.h" />
     <ClInclude Include="TextureLoader.h" />
-    <ClInclude Include="TextureManager.h" />
+    <ClInclude Include="Triangulo.h" />
     <ClInclude Include="Vector3.h" />
   </ItemGroup>
   <ItemGroup>

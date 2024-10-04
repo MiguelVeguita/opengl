@@ -61,8 +61,32 @@
     <ClCompile Include="TextureLoader.cpp">
       <Filter>Archivos de origen\texturas</Filter>
     </ClCompile>
-    <ClCompile Include="TextureManager.cpp">
-      <Filter>Archivos de origen\texturas</Filter>
+    <ClCompile Include="Figura.cpp">
+      <Filter>Archivos de origen\figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Figura2D.cpp">
+      <Filter>Archivos de origen\figura\figura2d</Filter>
+    </ClCompile>
+    <ClCompile Include="Figura3D.cpp">
+      <Filter>Archivos de origen\figura\figura3d</Filter>
+    </ClCompile>
+    <ClCompile Include="Cuadrado.cpp">
+      <Filter>Archivos de origen\figura\figura2d</Filter>
+    </ClCompile>
+    <ClCompile Include="Circulo.cpp">
+      <Filter>Archivos de origen\figura\figura2d</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangulo.cpp">
+      <Filter>Archivos de origen\figura\figura2d</Filter>
+    </ClCompile>
+    <ClCompile Include="Esfera.cpp">
+      <Filter>Archivos de origen\figura\figura3d</Filter>
+    </ClCompile>
+    <ClCompile Include="Cubo.cpp">
+      <Filter>Archivos de origen\figura\figura3d</Filter>
+    </ClCompile>
+    <ClCompile Include="Piramide.cpp">
+      <Filter>Archivos de origen\figura\figura3d</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -127,8 +151,32 @@
     <ClInclude Include="TextureLoader.h">
       <Filter>Archivos de encabezado\texturas</Filter>
     </ClInclude>
-    <ClInclude Include="TextureManager.h">
-      <Filter>Archivos de encabezado\texturas</Filter>
+    <ClInclude Include="Figura.h">
+      <Filter>Archivos de encabezado\figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Figura2D.h">
+      <Filter>Archivos de encabezado\figura\figuras2d</Filter>
+    </ClInclude>
+    <ClInclude Include="Figura3D.h">
+      <Filter>Archivos de encabezado\figura\figuras3d</Filter>
+    </ClInclude>
+    <ClInclude Include="Cuadrado.h">
+      <Filter>Archivos de encabezado\figura\figuras2d</Filter>
+    </ClInclude>
+    <ClInclude Include="Circulo.h">
+      <Filter>Archivos de encabezado\figura\figuras2d</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangulo.h">
+      <Filter>Archivos de encabezado\figura\figuras2d</Filter>
+    </ClInclude>
+    <ClInclude Include="Esfera.h">
+      <Filter>Archivos de encabezado\figura\figuras3d</Filter>
+    </ClInclude>
+    <ClInclude Include="Cubo.h">
+      <Filter>Archivos de encabezado\figura\figuras3d</Filter>
+    </ClInclude>
+    <ClInclude Include="Piramide.h">
+      <Filter>Archivos de encabezado\figura\figuras3d</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -173,6 +221,18 @@
     </Filter>
     <Filter Include="Archivos de origen\Macth">
       <UniqueIdentifier>{18b7436d-b2f7-46bb-adb7-3d11d86fcea1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\figura\figuras2d">
+      <UniqueIdentifier>{4f632ff9-81b9-4ea0-914e-e3ddf2da6ecd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\figura\figuras3d">
+      <UniqueIdentifier>{2b6f6c9d-bd18-4f90-a40b-adacda018bb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\figura\figura2d">
+      <UniqueIdentifier>{d3968e5d-52ca-4012-8330-0c872d8f632c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\figura\figura3d">
+      <UniqueIdentifier>{93180e11-5ad4-4723-8f1e-36de42b6ba93}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

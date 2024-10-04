@@ -1,21 +1,28 @@
 #pragma once
 #include "Example.h"
-#include "FiguraGeometrica.h"
+#include "Figura.h"
+#include "Cubo.h"
+#include "Esfera.h"
+#include "Triangulo.h"
+#include "Cuadrado.h"
 #include "Vector3.h"
-#include "BMPTextureLoader.h" // Incluye el cargador de texturas BMP
-class Example5 :
-    public Example
+#include "TextureLoader.h"
+
+class Example5 : public Example
 {
-    FiguraGeometrica* shape;
-    Vector3 pos;
-    BMPTextureLoader* _TextureLoader; // Cambiado a BMPTextureLoader
-    GLuint texture;
+    Figura* shape;      // Puntero a la figura base
+    Figura* square;   // Puntero al cuadrado
+    Figura* triangle; // Puntero al triángulo
+    Figura* sphere;     // Puntero a la esfera
+    Vector3 pos;        // Posición
+    TextureLoader* _TextureLoader; // Cargador de texturas
+    GLuint texture;     // Textura
+
 public:
     Example5();
     virtual void init() override;
     virtual void Render() override;
     virtual void KeyboardFunc(unsigned char key, int X, int Y) override;
     virtual void Idle() override;
-    void dibujarFiguras();
-    ~Example5(); // Declaración del destructor
+    void DrawShape();
 };
