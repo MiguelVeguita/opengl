@@ -1,6 +1,13 @@
 #include "Example4.h"
 #include "IncludeGL.h"
+#include "Light.h"
+#include "PointLight.h"
+#include "DirectionalLight.h"
+#include "SpotLight.h"
+
+
 #include <iostream>
+
 
 Example4::Example4() {
     pointLight = new PointLight();

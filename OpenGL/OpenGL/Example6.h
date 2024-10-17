@@ -1,0 +1,29 @@
+#pragma once
+#include "Example.h"
+#include "Figura.h"
+#include "Vector3.h"
+
+class Example6 : public Example
+{
+    Figura* shape;      // Puntero a la figura base (Cubo)
+    Figura* square;     // Puntero al cuadrado
+    Figura* triangle;   // Puntero al triángulo
+    Figura* sphere;     // Puntero a la esfera
+    Vector3 pos;        // Posición
+
+    // Declaración de las listas de display
+    int cubolist;
+    int esferalist;
+    int cuadradolist;
+    
+
+public:
+    Example6();
+    virtual void init() override;
+    virtual void Render() override;
+    virtual void KeyboardFunc(unsigned char key, int X, int Y) override;
+    virtual void Idle() override;
+    void ListCubo();
+    void ListEsfera();
+    void ListCuadrado();
+};

@@ -85,6 +85,12 @@
     <ClCompile Include="Cubo.cpp">
       <Filter>Archivos de origen\figura\figura3d</Filter>
     </ClCompile>
+    <ClCompile Include="Example6.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
     <ClCompile Include="Piramide.cpp">
       <Filter>Archivos de origen\figura\figura3d</Filter>
     </ClCompile>
@@ -174,6 +180,12 @@
     </ClInclude>
     <ClInclude Include="Cubo.h">
       <Filter>Archivos de encabezado\figura\figuras3d</Filter>
+    </ClInclude>
+    <ClInclude Include="Example6.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="Example7.h">
+      <Filter>Archivos de encabezado\Example</Filter>
     </ClInclude>
     <ClInclude Include="Piramide.h">
       <Filter>Archivos de encabezado\figura\figuras3d</Filter>

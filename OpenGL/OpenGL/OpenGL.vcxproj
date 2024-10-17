@@ -158,6 +158,8 @@
     <ClCompile Include="Example3_1.cpp" />
     <ClCompile Include="Example4.cpp" />
     <ClCompile Include="Example5.cpp" />
+    <ClCompile Include="Example6.cpp" />
+    <ClCompile Include="Example7.cpp" />
     <ClCompile Include="Figura.cpp" />
     <ClCompile Include="Figura2D.cpp" />
     <ClCompile Include="Figura3D.cpp" />
@@ -189,6 +191,8 @@
     <ClInclude Include="Example3_1.h" />
     <ClInclude Include="Example4.h" />
     <ClInclude Include="Example5.h" />
+    <ClInclude Include="Example6.h" />
+    <ClInclude Include="Example7.h" />
     <ClInclude Include="Figura.h" />
     <ClInclude Include="Figura2D.h" />
     <ClInclude Include="Figura3D.h" />

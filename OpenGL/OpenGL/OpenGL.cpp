@@ -1,28 +1,24 @@
 #include <Windows.h>
 #include "IncludeGL.h"
 #include "Example.h"
-#include "Example5.h"
-#include "PointLight.h"   // Asegúrate de incluir las cabeceras de luz
-#include "SpotLight.h"
-#include "DirectionalLight.h"
+#include "Example7.h"
+
 
 #include <iostream>
 using namespace std;
 
 
 Example* _Example;
-PointLight pointLight;
-SpotLight spotLight;
-DirectionalLight dirLight;
+
 
 void Render()
 {
-    ((Example5*)_Example)->Render();
+    ((Example7*)_Example)->Render();
 
 }
 void KeyboardFunc(unsigned char key, int X, int Y)
 {
-    ((Example5*)_Example)->KeyboardFunc(key, X, Y);
+    ((Example7*)_Example)->KeyboardFunc(key, X, Y);
     glutPostRedisplay();
 }
 
@@ -41,15 +37,15 @@ void reSize(GLsizei width, GLsizei height)
 
 void Idle()
 {
-    ((Example5*)_Example)->Idle();
+    ((Example7*)_Example)->Idle();
 }
 
 void init(void)
 {
 
-    _Example = new Example5();
+    _Example = new Example7();
 
-    ((Example5*)_Example)->init();
+    ((Example7*)_Example)->init();
 
 
 

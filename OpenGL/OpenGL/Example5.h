@@ -1,10 +1,6 @@
 #pragma once
 #include "Example.h"
 #include "Figura.h"
-#include "Cubo.h"
-#include "Esfera.h"
-#include "Triangulo.h"
-#include "Cuadrado.h"
 #include "Vector3.h"
 #include "TextureLoader.h"
 

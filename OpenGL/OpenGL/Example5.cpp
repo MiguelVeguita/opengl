@@ -1,6 +1,10 @@
 #include "Example5.h"
 //#include "Color.h"
 #include "Cubo.h"
+#include "Triangulo.h"
+#include "Cuadrado.h"
+#include "Esfera.h"
+
 #include <stdio.h>
 #include "BMPTextureLoader.h"
 
@@ -13,7 +17,10 @@ void Example5::init()
 	glClearDepth(1.0);
 	gluLookAt(5, 5, 5, 0, 0, 0, 0, 1, 0);
 	glMatrixMode(GL_MODELVIEW);
-	shape = new Cubo("Cuadrado", 1, 255, 2);
+	shape = new Cubo("Cubo", 1, 255, 2);
+	triangle = new Triangulo("Triangulo",1,255,2,2);
+	square = new Cuadrado("Cuadrado", 2, 255, 3);
+	sphere = new Esfera("Esfera", 1, 255, 2);
 	_TextureLoader = new BMPTextureLoader();
 	texture = ((BMPTextureLoader*)_TextureLoader)->LoadBMP("./textures/wallBMP.bmp");
 }
@@ -21,6 +28,7 @@ void Example5::Render()
 {
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 	Example::DrawGrids();
+
 	DrawShape();
 	glFlush();
 }
@@ -63,6 +71,12 @@ void Example5::DrawShape()
 	glPushMatrix();
 	glTranslatef(pos.x, pos.y, pos.z);
 	((Cubo*)shape)->dibujar();
+	glTranslatef(pos.x+2, pos.y, pos.z+2);
+	((Triangulo*)triangle)->dibujar();
+	glTranslatef(pos.x-5 , pos.y, pos.z - 4);
+	((Cuadrado*)square)->dibujar();
+	glTranslatef(pos.x +6, pos.y-4, pos.z-5);
+	((Esfera*)sphere)->dibujar();
 	glPopMatrix();
 	glDisable(GL_TEXTURE_GEN_S); //enable texture coordinate generation
 	glDisable(GL_TEXTURE_GEN_T);
